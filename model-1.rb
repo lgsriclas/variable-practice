@@ -5,5 +5,5 @@ num2 = 2.5
 summer_is_hot = true
 winter_is_hot = false
 seasons = ["Winter", "Spring", "Summer", "Fall"]
-{"happy" => "smile", "sad" => "frown"}
- 
+emotion = {"happy" => "smile", "sad" => "frown"}
+puts emotion ["happy"]
